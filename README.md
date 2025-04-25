@@ -10,14 +10,14 @@
 
 ```ascii
 
-        ⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀
+        ⠀⢠⣿⣿⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⣸⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣿⡀⠀⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀                         LOCATION: Mumbai, Maharashtra
-⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣠⣤⣤⣼⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀
-⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀
-⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀                         Email ID: officialbhattacharya@gmail.com
+⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣠⣤⣤⣼⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀                        LinkedIn: https://linkedin.com/in/diganta-b
+⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀                        Morgan Stanley, FID | Mumbai [CURRENT]
+⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀                        Microsoft Research India | Bangalore [PAST]
 ⠀⠀⠀⠘⣿⣿⣿⣿⠟⠁⠀⠀⠀⠹⣿⣿⣿⣿⣿⠟⠁⠀⠀⠹⣿⣿⡿⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⣿⣿⣿⡇⠀⠀⠀⢼⣿⠀⢿⣿⣿⣿⣿⠀⣾⣷⠀⠀⢿⣿⣷⠀⠀⠀⠀⠀
 ⠀⠀⠀⢠⣿⣿⣿⣷⡀⠀⠀⠈⠋⢀⣿⣿⣿⣿⣿⡀⠙⠋⠀⢀⣾⣿⣿⠀⠀⠀⠀⠀
@@ -50,29 +50,9 @@
 
 <div style="background: linear-gradient(to right, #141e30, #243b55); padding: 15px; border-left: 4px solid #00FFFF; border-radius: 5px; margin: 15px 0;">
 
-```
-
-MATRIX ID: officialbhattacharya@gmail.com
-NEURAL LINK: 8389054577
-MAINFRAME: https://linkedin.com/in/diganta-b
-```
-
 </div>
 
-<div style="background-color: rgba(0, 0, 0, 0.7); border-radius: 8px; padding: 15px; margin: 20px 0; border: 1px solid #00FF41;">
-<span style="color:#00FF41; font-family:'Orbitron', sans-serif; letter-spacing: 1px;">I'm a data scientist & a full stack developer specializing in computational finance, cryptography, and statistical modeling. </span>
-</div>
 
-## <span style="color:#00FFFF; font-family:'Orbitron', sans-serif; text-shadow: 0 0 10px #00FFFF;">// EXPERIENCE</span>
-
-<div style="background: linear-gradient(to right, #16222A, #3A6073); padding: 15px; border-radius: 8px; margin: 10px 0; border-left: 4px solid #FF00FF;">
-
-```
-Morgan Stanley, FID | Mumbai [CURRENT]
-Microsoft Research India | Bangalore [PAST]
-```
-
-</div>
 
 ## <span style="color:#00FF41; font-family:'Orbitron', sans-serif; text-shadow: 0 0 10px #00FF41;">// INTERESTS</span>
 
