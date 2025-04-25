@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/SPECIALTY-COMPUTATIONAL_FINANCE-00FFFF?style=for-the-badge" alt="Specialty">
 </div>
 
-## <span style="color:#FF00FF">// NEURAL INTERFACE ESTABLISHED</span>
 
 ```ascii
 ██████╗ ██╗ ██████╗  █████╗ ███╗   ██╗████████╗ █████╗ 
@@ -26,8 +25,6 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
 </div>
 
-## <span style="color:#00FFFF">// SYSTEM CREDENTIALS</span>
-
 ```
 LOCATION: Mumbai , Maharashtra
 MATRIX ID: officialbhattacharya@gmail.com
@@ -35,32 +32,8 @@ NEURAL LINK: 8389054577
 MAINFRAME: https://linkedin.com/in/diganta-b
 ```
 
-## <span style="color:#00FF41">// NEURAL NETWORKS & DATA ARCHITECTURE</span>
+I'm a data scientist specializing in computational finance, cryptography, and statistical modeling. Currently at Morgan Stanley as a Senior Associate in the FID division, where I develop neural networks for predictive analytics.
 
-I'm a data scientist specializing in computational finance, cryptography, and statistical modeling. Currently at Morgan Stanley as an Associate in the FID division, where I develop neural networks for predictive analytics.
-
-## <span style="color:#FF00FF">// FEATURED PROJECTS</span>
-
-### <span style="color:#00FFFF">ObfuscatingContinuousData.exe</span> 
-
-```
-[STATUS]: OPERATIONAL
-[GUIDE]: Prof. Bimal Ray, Aug 19 - Feb 20
-```
-
-Wrote an R code implementation for an existing model with improvements over existent legacy models improving performance and memory usage, proposing tweaks to the existing model to achieve improved accuracy and reduced computational complexity.
-
-## <span style="color:#00FF41">// RESEARCH PROTOCOLS</span>
-
-### <span style="color:#00FFFF">CVA and Vulnerable Options Pricing</span>
-
-```
-[ACCESS LEVEL]: CLASSIFIED
-[PROFESSOR]: Diganta Mukherjee
-[TIMESTAMP]: 2nd Year M.Stat
-```
-
-Introduced a computationally fast way to calculate Credit Value Adjustment. Presented original ideas and implemented the code for calculating CVA using numerical approximation methods.
 
 ## <span style="color:#FF00FF">// TECHNICAL AUGMENTATIONS</span>
 
@@ -68,14 +41,14 @@ Introduced a computationally fast way to calculate Credit Value Adjustment. Pres
 * **Tools**: LaTeX, R-Studio, MS Office Suite, Geogebra, Desmos
 * **Systems**: GIT, JySpark, RShiny
 
-## <span style="color:#00FFFF">// SIMULATION HISTORY</span>
+## <span style="color:#00FFFF">// EXPERIENCE </span>
 
 ```
 Morgan Stanley, FID | Mumbai [CURRENT]
 Microsoft Research India | Bangalore [PAST]
 ```
 
-## <span style="color:#00FF41">// NEURAL SUBROUTINES</span>
+## <span style="color:#00FF41">// INTERESTS </span>
 
 * Statistical Modeling
 * Neural Networks
