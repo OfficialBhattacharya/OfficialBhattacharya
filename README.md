@@ -48,7 +48,7 @@ I'm a data scientist specializing in computational finance, cryptography, and st
 [GUIDE]: Prof. Bimal Ray, Aug 19 - Feb 20
 ```
 
-Wrote an R code implementation for an existing model with improvements over other models, proposing tweaks to the existing model to achieve improved accuracy and reduced computational complexity.
+Wrote an R code implementation for an existing model with improvements over existent legacy models improving performance and memory usage, proposing tweaks to the existing model to achieve improved accuracy and reduced computational complexity.
 
 ## <span style="color:#00FF41">// RESEARCH PROTOCOLS</span>
 
