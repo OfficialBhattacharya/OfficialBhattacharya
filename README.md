@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge" alt="Status: Online">
-  <img src="https://img.shields.io/badge/LOCATION-KOLKATA_INDIA-FF00FF?style=for-the-badge" alt="Location">
+  <img src="https://img.shields.io/badge/LOCATION-Mumbai_INDIA-FF00FF?style=for-the-badge" alt="Location">
   <img src="https://img.shields.io/badge/SPECIALTY-COMPUTATIONAL_FINANCE-00FFFF?style=for-the-badge" alt="Specialty">
 </div>
 
