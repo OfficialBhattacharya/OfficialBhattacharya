@@ -29,9 +29,8 @@
 ## <span style="color:#00FFFF">// SYSTEM CREDENTIALS</span>
 
 ```
-DESIGNATION: R-8 Prestige Twins 
-LOCATION: Garia, Kolkata
-MATRIX ID: officialdigantab@gmail.com
+LOCATION: Mumbai , Maharashtra
+MATRIX ID: officialbhattacharya@gmail.com
 NEURAL LINK: 8389054577
 MAINFRAME: https://linkedin.com/in/diganta-b
 ```
