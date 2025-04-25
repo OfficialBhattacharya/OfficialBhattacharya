@@ -1,11 +1,5 @@
 # <div align="center"><span style="color:#00FF41; font-family:'Courier New', monospace; text-shadow: 0 0 5px #00FF41, 0 0 10px #00FF41;">DIGANTA BHATTACHARYA</span></div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&logoColor=black" alt="Status: Online">
-  <img src="https://img.shields.io/badge/LOCATION-Mumbai_INDIA-FF00FF?style=for-the-badge&logoColor=black" alt="Location">
-  <img src="https://img.shields.io/badge/SPECIALTY-COMPUTATIONAL_FINANCE-00FFFF?style=for-the-badge&logoColor=black" alt="Specialty">
-</div>
-
 <div style="background: linear-gradient(45deg, #000428, #004e92); padding: 20px; border-radius: 10px; margin: 20px 0;">
 
 ```ascii
@@ -36,19 +30,6 @@
                                                         
 
 ```
-
-</div>
-
-<div align="center" style="margin: 15px 0;">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Q-044A55?style=for-the-badge" alt="Q">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-</div>
-
-<div style="background: linear-gradient(to right, #141e30, #243b55); padding: 15px; border-left: 4px solid #00FFFF; border-radius: 5px; margin: 15px 0;">
 
 </div>
 
