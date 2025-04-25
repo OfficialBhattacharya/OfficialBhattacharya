@@ -95,12 +95,6 @@ Microsoft Research India | Bangalore [PAST]
 <!-- Add a glowing line separator -->
 <div style="width: 100%; height: 2px; background: linear-gradient(to right, #000, #00FF41, #000); margin: 30px 0;"></div>
 
-<!-- GitHub Stats Section -->
-<div align="center" style="margin-top: 20px;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  </a>
-</div>
 
 <!-- Visitor Counter -->
 <div align="center" style="margin-top: 20px;">
