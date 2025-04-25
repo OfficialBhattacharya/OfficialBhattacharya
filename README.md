@@ -60,7 +60,7 @@ MAINFRAME: https://linkedin.com/in/diganta-b
 </div>
 
 <div style="background-color: rgba(0, 0, 0, 0.7); border-radius: 8px; padding: 15px; margin: 20px 0; border: 1px solid #00FF41;">
-<span style="color:#00FF41; font-family:'Orbitron', sans-serif; letter-spacing: 1px;">I'm a data scientist specializing in computational finance, cryptography, and statistical modeling. Currently at Morgan Stanley as a Senior Associate in the FID division, where I develop models and frameworks for predictive analytics.</span>
+<span style="color:#00FF41; font-family:'Orbitron', sans-serif; letter-spacing: 1px;">I'm a data scientist & a full stack developer specializing in computational finance, cryptography, and statistical modeling. Currently at Morgan Stanley as a Senior Associate in the FID division, where I develop models and frameworks for predictive analytics.</span>
 </div>
 
 ## <span style="color:#FF00FF; font-family:'Orbitron', sans-serif; text-shadow: 0 0 10px #FF00FF;">// TECHNICAL AUGMENTATIONS</span>
