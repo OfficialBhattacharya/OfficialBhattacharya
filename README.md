@@ -60,17 +60,7 @@ MAINFRAME: https://linkedin.com/in/diganta-b
 </div>
 
 <div style="background-color: rgba(0, 0, 0, 0.7); border-radius: 8px; padding: 15px; margin: 20px 0; border: 1px solid #00FF41;">
-<span style="color:#00FF41; font-family:'Orbitron', sans-serif; letter-spacing: 1px;">I'm a data scientist & a full stack developer specializing in computational finance, cryptography, and statistical modeling. Currently at Morgan Stanley as a Senior Associate in the FID division, where I develop models and frameworks for predictive analytics.</span>
-</div>
-
-## <span style="color:#FF00FF; font-family:'Orbitron', sans-serif; text-shadow: 0 0 10px #FF00FF;">// TECHNICAL AUGMENTATIONS</span>
-
-<div style="background: linear-gradient(to right, #0f0c29, #302b63, #24243e); padding: 15px; border-radius: 8px; margin: 10px 0;">
-
-* <span style="color:#00FFFF; font-family:'Courier New', monospace;">**Languages**</span>: R, Python, Q/kdb+, SQL, MATLAB, C
-* <span style="color:#00FFFF; font-family:'Courier New', monospace;">**Tools**</span>: LaTeX, R-Studio, MS Office Suite, Geogebra, Desmos
-* <span style="color:#00FFFF; font-family:'Courier New', monospace;">**Systems**</span>: GIT, JySpark, RShiny
-
+<span style="color:#00FF41; font-family:'Orbitron', sans-serif; letter-spacing: 1px;">I'm a data scientist & a full stack developer specializing in computational finance, cryptography, and statistical modeling. </span>
 </div>
 
 ## <span style="color:#00FFFF; font-family:'Orbitron', sans-serif; text-shadow: 0 0 10px #00FFFF;">// EXPERIENCE</span>
